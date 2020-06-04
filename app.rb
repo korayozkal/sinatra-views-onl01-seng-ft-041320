@@ -18,5 +18,4 @@ get "/info" do
 "Testing the info page"
     end
     
-	
 end
